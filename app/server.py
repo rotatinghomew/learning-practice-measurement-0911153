@@ -72,10 +72,10 @@ class Handler(BaseHTTPRequestHandler):
             self.reply(503, {"error": str(error)})
 
 
-def make_server(port, mode, catalog, packet_path, result_directory):
+def make_server(port, mode, catalog, packet_path, result_directory, host="127.0.0.1"):
     handler = partial(Handler, mode=mode, catalog=catalog, packet_path=packet_path,
                       store=ResultStore(result_directory))
-    return ThreadingHTTPServer(("127.0.0.1", port), handler)
+    return ThreadingHTTPServer((host, port), handler)
 
 
 def main():

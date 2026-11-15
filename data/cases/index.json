@@ -1,0 +1,14 @@
+[
+  {
+    "path": "data/cases/boundary-1.json",
+    "meaning": "各学习者投入相同且各渠道无变化，无法从变异估计投入响应。"
+  },
+  {
+    "path": "data/cases/boundary-2.json",
+    "meaning": "取消核验资料，仍有重复填报；重复一致不证明不存在共同偏差。"
+  },
+  {
+    "path": "data/cases/boundary-3.json",
+    "meaning": "各渠道共享按家庭变化的偏移，不应凭多渠道一致就宣布真值已确定。"
+  }
+]

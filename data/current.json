@@ -1,0 +1,4083 @@
+{
+  "revision": "2026q4-v1",
+  "synthetic": true,
+  "learners": [
+    {
+      "learner": "p0",
+      "household": "h0",
+      "baseline_score": 42.39,
+      "score": 40.22
+    },
+    {
+      "learner": "p1",
+      "household": "h0",
+      "baseline_score": 35.54,
+      "score": 38.07
+    },
+    {
+      "learner": "p2",
+      "household": "h1",
+      "baseline_score": 56.37,
+      "score": 54.01
+    },
+    {
+      "learner": "p3",
+      "household": "h1",
+      "baseline_score": 49.03,
+      "score": 50.52
+    },
+    {
+      "learner": "p4",
+      "household": "h2",
+      "baseline_score": 47.76,
+      "score": 49.54
+    },
+    {
+      "learner": "p5",
+      "household": "h2",
+      "baseline_score": 66.28,
+      "score": 66.56
+    },
+    {
+      "learner": "p6",
+      "household": "h3",
+      "baseline_score": 41.0,
+      "score": 35.98
+    },
+    {
+      "learner": "p7",
+      "household": "h3",
+      "baseline_score": 36.18,
+      "score": 35.55
+    },
+    {
+      "learner": "p8",
+      "household": "h4",
+      "baseline_score": 48.6,
+      "score": 49.0
+    },
+    {
+      "learner": "p9",
+      "household": "h4",
+      "baseline_score": 27.31,
+      "score": 30.43
+    },
+    {
+      "learner": "p10",
+      "household": "h5",
+      "baseline_score": 30.81,
+      "score": 28.38
+    },
+    {
+      "learner": "p11",
+      "household": "h5",
+      "baseline_score": 50.62,
+      "score": 44.82
+    },
+    {
+      "learner": "p12",
+      "household": "h6",
+      "baseline_score": 68.59,
+      "score": 67.78
+    },
+    {
+      "learner": "p13",
+      "household": "h6",
+      "baseline_score": 55.7,
+      "score": 67.17
+    },
+    {
+      "learner": "p14",
+      "household": "h7",
+      "baseline_score": 61.94,
+      "score": 64.11
+    },
+    {
+      "learner": "p15",
+      "household": "h7",
+      "baseline_score": 45.24,
+      "score": 46.27
+    },
+    {
+      "learner": "p16",
+      "household": "h8",
+      "baseline_score": 28.87,
+      "score": 35.32
+    },
+    {
+      "learner": "p17",
+      "household": "h8",
+      "baseline_score": 26.53,
+      "score": 35.31
+    },
+    {
+      "learner": "p18",
+      "household": "h9",
+      "baseline_score": 30.03,
+      "score": 31.66
+    },
+    {
+      "learner": "p19",
+      "household": "h9",
+      "baseline_score": 45.48,
+      "score": 45.54
+    },
+    {
+      "learner": "p20",
+      "household": "h10",
+      "baseline_score": 68.68,
+      "score": 74.61
+    },
+    {
+      "learner": "p21",
+      "household": "h10",
+      "baseline_score": 54.29,
+      "score": 53.52
+    },
+    {
+      "learner": "p22",
+      "household": "h11",
+      "baseline_score": 46.71,
+      "score": 60.67
+    },
+    {
+      "learner": "p23",
+      "household": "h11",
+      "baseline_score": 35.56,
+      "score": 33.07
+    },
+    {
+      "learner": "p24",
+      "household": "h12",
+      "baseline_score": 32.16,
+      "score": 37.97
+    },
+    {
+      "learner": "p25",
+      "household": "h12",
+      "baseline_score": 47.67,
+      "score": 40.0
+    },
+    {
+      "learner": "p26",
+      "household": "h13",
+      "baseline_score": 53.07,
+      "score": 58.1
+    },
+    {
+      "learner": "p27",
+      "household": "h13",
+      "baseline_score": 39.98,
+      "score": 40.68
+    },
+    {
+      "learner": "p28",
+      "household": "h14",
+      "baseline_score": 56.99,
+      "score": 66.13
+    },
+    {
+      "learner": "p29",
+      "household": "h14",
+      "baseline_score": 49.28,
+      "score": 49.23
+    },
+    {
+      "learner": "p30",
+      "household": "h15",
+      "baseline_score": 38.41,
+      "score": 42.03
+    },
+    {
+      "learner": "p31",
+      "household": "h15",
+      "baseline_score": 34.49,
+      "score": 40.38
+    },
+    {
+      "learner": "p32",
+      "household": "h16",
+      "baseline_score": 51.42,
+      "score": 51.49
+    },
+    {
+      "learner": "p33",
+      "household": "h16",
+      "baseline_score": 50.72,
+      "score": 57.03
+    },
+    {
+      "learner": "p34",
+      "household": "h17",
+      "baseline_score": 60.21,
+      "score": 60.55
+    },
+    {
+      "learner": "p35",
+      "household": "h17",
+      "baseline_score": 25.14,
+      "score": 30.3
+    },
+    {
+      "learner": "p36",
+      "household": "h18",
+      "baseline_score": 35.64,
+      "score": 38.03
+    },
+    {
+      "learner": "p37",
+      "household": "h18",
+      "baseline_score": 56.05,
+      "score": 65.1
+    },
+    {
+      "learner": "p38",
+      "household": "h19",
+      "baseline_score": 41.89,
+      "score": 49.4
+    },
+    {
+      "learner": "p39",
+      "household": "h19",
+      "baseline_score": 69.84,
+      "score": 80.24
+    },
+    {
+      "learner": "p40",
+      "household": "h20",
+      "baseline_score": 39.09,
+      "score": 40.48
+    },
+    {
+      "learner": "p41",
+      "household": "h20",
+      "baseline_score": 69.02,
+      "score": 74.79
+    },
+    {
+      "learner": "p42",
+      "household": "h21",
+      "baseline_score": 33.99,
+      "score": 32.27
+    },
+    {
+      "learner": "p43",
+      "household": "h21",
+      "baseline_score": 64.53,
+      "score": 69.46
+    },
+    {
+      "learner": "p44",
+      "household": "h22",
+      "baseline_score": 52.39,
+      "score": 67.23
+    },
+    {
+      "learner": "p45",
+      "household": "h22",
+      "baseline_score": 50.36,
+      "score": 50.12
+    },
+    {
+      "learner": "p46",
+      "household": "h23",
+      "baseline_score": 51.68,
+      "score": 54.49
+    },
+    {
+      "learner": "p47",
+      "household": "h23",
+      "baseline_score": 67.58,
+      "score": 68.18
+    },
+    {
+      "learner": "p48",
+      "household": "h24",
+      "baseline_score": 64.02,
+      "score": 73.12
+    },
+    {
+      "learner": "p49",
+      "household": "h24",
+      "baseline_score": 43.29,
+      "score": 45.9
+    },
+    {
+      "learner": "p50",
+      "household": "h25",
+      "baseline_score": 44.27,
+      "score": 44.28
+    },
+    {
+      "learner": "p51",
+      "household": "h25",
+      "baseline_score": 32.34,
+      "score": 27.07
+    },
+    {
+      "learner": "p52",
+      "household": "h26",
+      "baseline_score": 31.64,
+      "score": 31.39
+    },
+    {
+      "learner": "p53",
+      "household": "h26",
+      "baseline_score": 63.23,
+      "score": 67.42
+    },
+    {
+      "learner": "p54",
+      "household": "h27",
+      "baseline_score": 59.45,
+      "score": 63.66
+    },
+    {
+      "learner": "p55",
+      "household": "h27",
+      "baseline_score": 60.75,
+      "score": 64.91
+    },
+    {
+      "learner": "p56",
+      "household": "h28",
+      "baseline_score": 40.99,
+      "score": 39.64
+    },
+    {
+      "learner": "p57",
+      "household": "h28",
+      "baseline_score": 60.43,
+      "score": 63.0
+    },
+    {
+      "learner": "p58",
+      "household": "h29",
+      "baseline_score": 29.54,
+      "score": 35.71
+    },
+    {
+      "learner": "p59",
+      "household": "h29",
+      "baseline_score": 31.58,
+      "score": 41.8
+    },
+    {
+      "learner": "p60",
+      "household": "h30",
+      "baseline_score": 49.79,
+      "score": 45.58
+    },
+    {
+      "learner": "p61",
+      "household": "h30",
+      "baseline_score": 52.59,
+      "score": 56.34
+    },
+    {
+      "learner": "p62",
+      "household": "h31",
+      "baseline_score": 50.26,
+      "score": 51.14
+    },
+    {
+      "learner": "p63",
+      "household": "h31",
+      "baseline_score": 63.47,
+      "score": 69.9
+    },
+    {
+      "learner": "p64",
+      "household": "h32",
+      "baseline_score": 69.11,
+      "score": 68.69
+    },
+    {
+      "learner": "p65",
+      "household": "h32",
+      "baseline_score": 43.75,
+      "score": 34.94
+    },
+    {
+      "learner": "p66",
+      "household": "h33",
+      "baseline_score": 40.95,
+      "score": 43.83
+    },
+    {
+      "learner": "p67",
+      "household": "h33",
+      "baseline_score": 25.25,
+      "score": 28.84
+    },
+    {
+      "learner": "p68",
+      "household": "h34",
+      "baseline_score": 33.65,
+      "score": 42.75
+    },
+    {
+      "learner": "p69",
+      "household": "h34",
+      "baseline_score": 59.39,
+      "score": 58.99
+    },
+    {
+      "learner": "p70",
+      "household": "h35",
+      "baseline_score": 36.82,
+      "score": 36.03
+    },
+    {
+      "learner": "p71",
+      "household": "h35",
+      "baseline_score": 48.06,
+      "score": 53.44
+    },
+    {
+      "learner": "p72",
+      "household": "h36",
+      "baseline_score": 48.47,
+      "score": 48.09
+    },
+    {
+      "learner": "p73",
+      "household": "h36",
+      "baseline_score": 39.64,
+      "score": 46.71
+    },
+    {
+      "learner": "p74",
+      "household": "h37",
+      "baseline_score": 42.7,
+      "score": 41.03
+    },
+    {
+      "learner": "p75",
+      "household": "h37",
+      "baseline_score": 49.28,
+      "score": 48.12
+    },
+    {
+      "learner": "p76",
+      "household": "h38",
+      "baseline_score": 46.43,
+      "score": 46.78
+    },
+    {
+      "learner": "p77",
+      "household": "h38",
+      "baseline_score": 66.6,
+      "score": 70.03
+    },
+    {
+      "learner": "p78",
+      "household": "h39",
+      "baseline_score": 38.12,
+      "score": 46.21
+    },
+    {
+      "learner": "p79",
+      "household": "h39",
+      "baseline_score": 40.72,
+      "score": 41.23
+    },
+    {
+      "learner": "p80",
+      "household": "h40",
+      "baseline_score": 42.0,
+      "score": 48.39
+    },
+    {
+      "learner": "p81",
+      "household": "h40",
+      "baseline_score": 43.88,
+      "score": 40.84
+    },
+    {
+      "learner": "p82",
+      "household": "h41",
+      "baseline_score": 61.55,
+      "score": 70.41
+    },
+    {
+      "learner": "p83",
+      "household": "h41",
+      "baseline_score": 62.79,
+      "score": 68.92
+    },
+    {
+      "learner": "p84",
+      "household": "h42",
+      "baseline_score": 32.23,
+      "score": 35.12
+    },
+    {
+      "learner": "p85",
+      "household": "h42",
+      "baseline_score": 29.91,
+      "score": 36.73
+    },
+    {
+      "learner": "p86",
+      "household": "h43",
+      "baseline_score": 46.06,
+      "score": 52.06
+    },
+    {
+      "learner": "p87",
+      "household": "h43",
+      "baseline_score": 65.77,
+      "score": 65.13
+    },
+    {
+      "learner": "p88",
+      "household": "h44",
+      "baseline_score": 37.56,
+      "score": 42.09
+    },
+    {
+      "learner": "p89",
+      "household": "h44",
+      "baseline_score": 41.6,
+      "score": 50.62
+    }
+  ],
+  "observations": [
+    {
+      "learner": "p0",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": null
+    },
+    {
+      "learner": "p0",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": null
+    },
+    {
+      "learner": "p0",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": null
+    },
+    {
+      "learner": "p0",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 65.41
+    },
+    {
+      "learner": "p0",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 54.59
+    },
+    {
+      "learner": "p0",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 41.45
+    },
+    {
+      "learner": "p1",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 88.29
+    },
+    {
+      "learner": "p1",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 60.08
+    },
+    {
+      "learner": "p1",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 78.32
+    },
+    {
+      "learner": "p1",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 88.62
+    },
+    {
+      "learner": "p1",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 70.0
+    },
+    {
+      "learner": "p1",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 78.03
+    },
+    {
+      "learner": "p2",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 57.55
+    },
+    {
+      "learner": "p2",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 50.07
+    },
+    {
+      "learner": "p2",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 59.17
+    },
+    {
+      "learner": "p2",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 63.34
+    },
+    {
+      "learner": "p2",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 61.66
+    },
+    {
+      "learner": "p2",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 34.75
+    },
+    {
+      "learner": "p3",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 31.76
+    },
+    {
+      "learner": "p3",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 53.76
+    },
+    {
+      "learner": "p3",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 50.48
+    },
+    {
+      "learner": "p3",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 49.28
+    },
+    {
+      "learner": "p3",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 47.36
+    },
+    {
+      "learner": "p3",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 53.19
+    },
+    {
+      "learner": "p4",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 28.64
+    },
+    {
+      "learner": "p4",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 34.57
+    },
+    {
+      "learner": "p4",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 40.69
+    },
+    {
+      "learner": "p4",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 31.2
+    },
+    {
+      "learner": "p4",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 27.59
+    },
+    {
+      "learner": "p4",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 28.1
+    },
+    {
+      "learner": "p5",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 36.46
+    },
+    {
+      "learner": "p5",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 40.28
+    },
+    {
+      "learner": "p5",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 20.79
+    },
+    {
+      "learner": "p5",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 27.65
+    },
+    {
+      "learner": "p5",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 50.96
+    },
+    {
+      "learner": "p5",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 27.53
+    },
+    {
+      "learner": "p6",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 22.38
+    },
+    {
+      "learner": "p6",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 25.33
+    },
+    {
+      "learner": "p6",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 11.98
+    },
+    {
+      "learner": "p6",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 17.49
+    },
+    {
+      "learner": "p6",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 14.42
+    },
+    {
+      "learner": "p6",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 9.8
+    },
+    {
+      "learner": "p7",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 26.34
+    },
+    {
+      "learner": "p7",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 21.86
+    },
+    {
+      "learner": "p7",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 18.78
+    },
+    {
+      "learner": "p7",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 21.07
+    },
+    {
+      "learner": "p7",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 28.78
+    },
+    {
+      "learner": "p7",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 27.33
+    },
+    {
+      "learner": "p8",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 31.69
+    },
+    {
+      "learner": "p8",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 51.38
+    },
+    {
+      "learner": "p8",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 24.31
+    },
+    {
+      "learner": "p8",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 26.99
+    },
+    {
+      "learner": "p8",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 43.63
+    },
+    {
+      "learner": "p8",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 29.99
+    },
+    {
+      "learner": "p9",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 46.48
+    },
+    {
+      "learner": "p9",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 58.83
+    },
+    {
+      "learner": "p9",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 34.3
+    },
+    {
+      "learner": "p9",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 47.66
+    },
+    {
+      "learner": "p9",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 51.65
+    },
+    {
+      "learner": "p9",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 39.51
+    },
+    {
+      "learner": "p10",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 29.04
+    },
+    {
+      "learner": "p10",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 43.32
+    },
+    {
+      "learner": "p10",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 30.92
+    },
+    {
+      "learner": "p10",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 42.74
+    },
+    {
+      "learner": "p10",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 48.95
+    },
+    {
+      "learner": "p10",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 21.81
+    },
+    {
+      "learner": "p11",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 55.18
+    },
+    {
+      "learner": "p11",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 43.81
+    },
+    {
+      "learner": "p11",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 30.91
+    },
+    {
+      "learner": "p11",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 39.95
+    },
+    {
+      "learner": "p11",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 39.71
+    },
+    {
+      "learner": "p11",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 33.5
+    },
+    {
+      "learner": "p12",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 0
+    },
+    {
+      "learner": "p12",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 9.68
+    },
+    {
+      "learner": "p12",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 0
+    },
+    {
+      "learner": "p12",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 0.67
+    },
+    {
+      "learner": "p12",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 20.0
+    },
+    {
+      "learner": "p12",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 3.94
+    },
+    {
+      "learner": "p13",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 36.18
+    },
+    {
+      "learner": "p13",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 59.73
+    },
+    {
+      "learner": "p13",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 37.79
+    },
+    {
+      "learner": "p13",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 38.79
+    },
+    {
+      "learner": "p13",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 53.43
+    },
+    {
+      "learner": "p13",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 31.05
+    },
+    {
+      "learner": "p14",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 87.1
+    },
+    {
+      "learner": "p14",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 79.99
+    },
+    {
+      "learner": "p14",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 85.91
+    },
+    {
+      "learner": "p14",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 86.7
+    },
+    {
+      "learner": "p14",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 77.33
+    },
+    {
+      "learner": "p14",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 85.36
+    },
+    {
+      "learner": "p15",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 66.62
+    },
+    {
+      "learner": "p15",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 60.98
+    },
+    {
+      "learner": "p15",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 54.1
+    },
+    {
+      "learner": "p15",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 58.41
+    },
+    {
+      "learner": "p15",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 69.47
+    },
+    {
+      "learner": "p15",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 47.81
+    },
+    {
+      "learner": "p16",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 115.05
+    },
+    {
+      "learner": "p16",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 113.83
+    },
+    {
+      "learner": "p16",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 101.72
+    },
+    {
+      "learner": "p16",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 105.7
+    },
+    {
+      "learner": "p16",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 109.17
+    },
+    {
+      "learner": "p16",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 98.68
+    },
+    {
+      "learner": "p17",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 36.04
+    },
+    {
+      "learner": "p17",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 22.89
+    },
+    {
+      "learner": "p17",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 23.05
+    },
+    {
+      "learner": "p17",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 24.93
+    },
+    {
+      "learner": "p17",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 49.64
+    },
+    {
+      "learner": "p17",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 21.09
+    },
+    {
+      "learner": "p18",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 23.99
+    },
+    {
+      "learner": "p18",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 16.24
+    },
+    {
+      "learner": "p18",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 10.94
+    },
+    {
+      "learner": "p18",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": null
+    },
+    {
+      "learner": "p18",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": null
+    },
+    {
+      "learner": "p18",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": null
+    },
+    {
+      "learner": "p19",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": null
+    },
+    {
+      "learner": "p19",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": null
+    },
+    {
+      "learner": "p19",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": null
+    },
+    {
+      "learner": "p19",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 49.24
+    },
+    {
+      "learner": "p19",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 55.01
+    },
+    {
+      "learner": "p19",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 34.84
+    },
+    {
+      "learner": "p20",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 44.09
+    },
+    {
+      "learner": "p20",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 45.98
+    },
+    {
+      "learner": "p20",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 32.23
+    },
+    {
+      "learner": "p20",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 29.4
+    },
+    {
+      "learner": "p20",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 39.02
+    },
+    {
+      "learner": "p20",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 25.69
+    },
+    {
+      "learner": "p21",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 37.07
+    },
+    {
+      "learner": "p21",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 32.82
+    },
+    {
+      "learner": "p21",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 34.09
+    },
+    {
+      "learner": "p21",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 28.64
+    },
+    {
+      "learner": "p21",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 33.45
+    },
+    {
+      "learner": "p21",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 29.46
+    },
+    {
+      "learner": "p22",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 134.83
+    },
+    {
+      "learner": "p22",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 138.88
+    },
+    {
+      "learner": "p22",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 125.86
+    },
+    {
+      "learner": "p22",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 134.62
+    },
+    {
+      "learner": "p22",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 139.33
+    },
+    {
+      "learner": "p22",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 132.9
+    },
+    {
+      "learner": "p23",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 15.61
+    },
+    {
+      "learner": "p23",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 13.72
+    },
+    {
+      "learner": "p23",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 0
+    },
+    {
+      "learner": "p23",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 11.58
+    },
+    {
+      "learner": "p23",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 24.82
+    },
+    {
+      "learner": "p23",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 2.57
+    },
+    {
+      "learner": "p24",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 42.07
+    },
+    {
+      "learner": "p24",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 61.66
+    },
+    {
+      "learner": "p24",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 33.88
+    },
+    {
+      "learner": "p24",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 37.99
+    },
+    {
+      "learner": "p24",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 53.88
+    },
+    {
+      "learner": "p24",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 32.08
+    },
+    {
+      "learner": "p25",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 28.78
+    },
+    {
+      "learner": "p25",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 22.98
+    },
+    {
+      "learner": "p25",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 12.96
+    },
+    {
+      "learner": "p25",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 18.32
+    },
+    {
+      "learner": "p25",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 43.35
+    },
+    {
+      "learner": "p25",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 20.08
+    },
+    {
+      "learner": "p26",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 51.87
+    },
+    {
+      "learner": "p26",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 62.51
+    },
+    {
+      "learner": "p26",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 29.76
+    },
+    {
+      "learner": "p26",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 52.07
+    },
+    {
+      "learner": "p26",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 52.35
+    },
+    {
+      "learner": "p26",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 42.9
+    },
+    {
+      "learner": "p27",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 6.82
+    },
+    {
+      "learner": "p27",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 28.74
+    },
+    {
+      "learner": "p27",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 1.46
+    },
+    {
+      "learner": "p27",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 12.73
+    },
+    {
+      "learner": "p27",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 27.83
+    },
+    {
+      "learner": "p27",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 0
+    },
+    {
+      "learner": "p28",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 63.6
+    },
+    {
+      "learner": "p28",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 62.25
+    },
+    {
+      "learner": "p28",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 41.82
+    },
+    {
+      "learner": "p28",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 46.79
+    },
+    {
+      "learner": "p28",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 64.22
+    },
+    {
+      "learner": "p28",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 58.42
+    },
+    {
+      "learner": "p29",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 37.99
+    },
+    {
+      "learner": "p29",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 29.68
+    },
+    {
+      "learner": "p29",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 28.01
+    },
+    {
+      "learner": "p29",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 37.78
+    },
+    {
+      "learner": "p29",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 29.36
+    },
+    {
+      "learner": "p29",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 33.28
+    },
+    {
+      "learner": "p30",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 21.8
+    },
+    {
+      "learner": "p30",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 29.64
+    },
+    {
+      "learner": "p30",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 32.86
+    },
+    {
+      "learner": "p30",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 38.29
+    },
+    {
+      "learner": "p30",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 35.95
+    },
+    {
+      "learner": "p30",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 29.97
+    },
+    {
+      "learner": "p31",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 7.31
+    },
+    {
+      "learner": "p31",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 35.77
+    },
+    {
+      "learner": "p31",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 19.58
+    },
+    {
+      "learner": "p31",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 24.82
+    },
+    {
+      "learner": "p31",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 25.52
+    },
+    {
+      "learner": "p31",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 22.34
+    },
+    {
+      "learner": "p32",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 57.96
+    },
+    {
+      "learner": "p32",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 69.25
+    },
+    {
+      "learner": "p32",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 45.29
+    },
+    {
+      "learner": "p32",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 64.73
+    },
+    {
+      "learner": "p32",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 59.05
+    },
+    {
+      "learner": "p32",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 61.06
+    },
+    {
+      "learner": "p33",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 98.75
+    },
+    {
+      "learner": "p33",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 93.52
+    },
+    {
+      "learner": "p33",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 100.59
+    },
+    {
+      "learner": "p33",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 108.32
+    },
+    {
+      "learner": "p33",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 100.73
+    },
+    {
+      "learner": "p33",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 88.76
+    },
+    {
+      "learner": "p34",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 23.33
+    },
+    {
+      "learner": "p34",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 26.58
+    },
+    {
+      "learner": "p34",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 6.89
+    },
+    {
+      "learner": "p34",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 30.78
+    },
+    {
+      "learner": "p34",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 38.54
+    },
+    {
+      "learner": "p34",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 16.58
+    },
+    {
+      "learner": "p35",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 48.08
+    },
+    {
+      "learner": "p35",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 46.16
+    },
+    {
+      "learner": "p35",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 21.82
+    },
+    {
+      "learner": "p35",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 17.62
+    },
+    {
+      "learner": "p35",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 41.63
+    },
+    {
+      "learner": "p35",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 10.27
+    },
+    {
+      "learner": "p36",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 38.47
+    },
+    {
+      "learner": "p36",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 51.75
+    },
+    {
+      "learner": "p36",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 23.44
+    },
+    {
+      "learner": "p36",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 24.12
+    },
+    {
+      "learner": "p36",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 42.17
+    },
+    {
+      "learner": "p36",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 44.59
+    },
+    {
+      "learner": "p37",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 22.87
+    },
+    {
+      "learner": "p37",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 35.47
+    },
+    {
+      "learner": "p37",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 16.44
+    },
+    {
+      "learner": "p37",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": null
+    },
+    {
+      "learner": "p37",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": null
+    },
+    {
+      "learner": "p37",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": null
+    },
+    {
+      "learner": "p38",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": null
+    },
+    {
+      "learner": "p38",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": null
+    },
+    {
+      "learner": "p38",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": null
+    },
+    {
+      "learner": "p38",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 48.86
+    },
+    {
+      "learner": "p38",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 58.11
+    },
+    {
+      "learner": "p38",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 64.03
+    },
+    {
+      "learner": "p39",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 108.88
+    },
+    {
+      "learner": "p39",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 108.24
+    },
+    {
+      "learner": "p39",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 115.68
+    },
+    {
+      "learner": "p39",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 112.7
+    },
+    {
+      "learner": "p39",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 108.46
+    },
+    {
+      "learner": "p39",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 108.19
+    },
+    {
+      "learner": "p40",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 49.04
+    },
+    {
+      "learner": "p40",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 58.07
+    },
+    {
+      "learner": "p40",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 35.4
+    },
+    {
+      "learner": "p40",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 54.96
+    },
+    {
+      "learner": "p40",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 41.63
+    },
+    {
+      "learner": "p40",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 40.45
+    },
+    {
+      "learner": "p41",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 47.06
+    },
+    {
+      "learner": "p41",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 67.29
+    },
+    {
+      "learner": "p41",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 45.21
+    },
+    {
+      "learner": "p41",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 42.53
+    },
+    {
+      "learner": "p41",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 56.58
+    },
+    {
+      "learner": "p41",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 36.88
+    },
+    {
+      "learner": "p42",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 83.61
+    },
+    {
+      "learner": "p42",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 77.46
+    },
+    {
+      "learner": "p42",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 67.19
+    },
+    {
+      "learner": "p42",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 91.33
+    },
+    {
+      "learner": "p42",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 80.77
+    },
+    {
+      "learner": "p42",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 86.6
+    },
+    {
+      "learner": "p43",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 35.77
+    },
+    {
+      "learner": "p43",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 30.67
+    },
+    {
+      "learner": "p43",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 34.16
+    },
+    {
+      "learner": "p43",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 34.02
+    },
+    {
+      "learner": "p43",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 30.99
+    },
+    {
+      "learner": "p43",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 32.14
+    },
+    {
+      "learner": "p44",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 129.81
+    },
+    {
+      "learner": "p44",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 126.05
+    },
+    {
+      "learner": "p44",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 121.99
+    },
+    {
+      "learner": "p44",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 134.68
+    },
+    {
+      "learner": "p44",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 133.5
+    },
+    {
+      "learner": "p44",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 109.18
+    },
+    {
+      "learner": "p45",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 0
+    },
+    {
+      "learner": "p45",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 1.24
+    },
+    {
+      "learner": "p45",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 5.3
+    },
+    {
+      "learner": "p45",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 4.65
+    },
+    {
+      "learner": "p45",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 9.64
+    },
+    {
+      "learner": "p45",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 0
+    },
+    {
+      "learner": "p46",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 47.33
+    },
+    {
+      "learner": "p46",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 49.4
+    },
+    {
+      "learner": "p46",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 53.01
+    },
+    {
+      "learner": "p46",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 60.05
+    },
+    {
+      "learner": "p46",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 57.24
+    },
+    {
+      "learner": "p46",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 41.74
+    },
+    {
+      "learner": "p47",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 94.68
+    },
+    {
+      "learner": "p47",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 99.1
+    },
+    {
+      "learner": "p47",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 94.37
+    },
+    {
+      "learner": "p47",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 87.58
+    },
+    {
+      "learner": "p47",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 101.98
+    },
+    {
+      "learner": "p47",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 91.39
+    },
+    {
+      "learner": "p48",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 123.57
+    },
+    {
+      "learner": "p48",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 121.43
+    },
+    {
+      "learner": "p48",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 95.35
+    },
+    {
+      "learner": "p48",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 107.02
+    },
+    {
+      "learner": "p48",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 109.12
+    },
+    {
+      "learner": "p48",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 118.4
+    },
+    {
+      "learner": "p49",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 61.54
+    },
+    {
+      "learner": "p49",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 65.67
+    },
+    {
+      "learner": "p49",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 48.38
+    },
+    {
+      "learner": "p49",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 55.17
+    },
+    {
+      "learner": "p49",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 54.85
+    },
+    {
+      "learner": "p49",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 40.09
+    },
+    {
+      "learner": "p50",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 35.03
+    },
+    {
+      "learner": "p50",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 35.47
+    },
+    {
+      "learner": "p50",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 11.68
+    },
+    {
+      "learner": "p50",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 41.03
+    },
+    {
+      "learner": "p50",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 42.04
+    },
+    {
+      "learner": "p50",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 18.0
+    },
+    {
+      "learner": "p51",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 37.94
+    },
+    {
+      "learner": "p51",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 32.42
+    },
+    {
+      "learner": "p51",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 23.81
+    },
+    {
+      "learner": "p51",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 24.18
+    },
+    {
+      "learner": "p51",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 35.85
+    },
+    {
+      "learner": "p51",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 13.55
+    },
+    {
+      "learner": "p52",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 23.25
+    },
+    {
+      "learner": "p52",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 35.26
+    },
+    {
+      "learner": "p52",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 15.04
+    },
+    {
+      "learner": "p52",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 26.09
+    },
+    {
+      "learner": "p52",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 39.51
+    },
+    {
+      "learner": "p52",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 10.95
+    },
+    {
+      "learner": "p53",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 23.34
+    },
+    {
+      "learner": "p53",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 50.32
+    },
+    {
+      "learner": "p53",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 36.78
+    },
+    {
+      "learner": "p53",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 41.32
+    },
+    {
+      "learner": "p53",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 50.05
+    },
+    {
+      "learner": "p53",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 26.78
+    },
+    {
+      "learner": "p54",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 50.97
+    },
+    {
+      "learner": "p54",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 65.58
+    },
+    {
+      "learner": "p54",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 35.14
+    },
+    {
+      "learner": "p54",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 55.83
+    },
+    {
+      "learner": "p54",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 64.65
+    },
+    {
+      "learner": "p54",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 37.75
+    },
+    {
+      "learner": "p55",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 37.48
+    },
+    {
+      "learner": "p55",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 47.95
+    },
+    {
+      "learner": "p55",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 37.14
+    },
+    {
+      "learner": "p55",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 33.56
+    },
+    {
+      "learner": "p55",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 54.43
+    },
+    {
+      "learner": "p55",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 27.23
+    },
+    {
+      "learner": "p56",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 25.33
+    },
+    {
+      "learner": "p56",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 19.83
+    },
+    {
+      "learner": "p56",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 13.51
+    },
+    {
+      "learner": "p56",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": null
+    },
+    {
+      "learner": "p56",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": null
+    },
+    {
+      "learner": "p56",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": null
+    },
+    {
+      "learner": "p57",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": null
+    },
+    {
+      "learner": "p57",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": null
+    },
+    {
+      "learner": "p57",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": null
+    },
+    {
+      "learner": "p57",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 55.99
+    },
+    {
+      "learner": "p57",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 52.93
+    },
+    {
+      "learner": "p57",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 37.88
+    },
+    {
+      "learner": "p58",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 40.84
+    },
+    {
+      "learner": "p58",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 28.52
+    },
+    {
+      "learner": "p58",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 31.79
+    },
+    {
+      "learner": "p58",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 42.13
+    },
+    {
+      "learner": "p58",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 42.31
+    },
+    {
+      "learner": "p58",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 31.46
+    },
+    {
+      "learner": "p59",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 116.72
+    },
+    {
+      "learner": "p59",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 106.2
+    },
+    {
+      "learner": "p59",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 98.19
+    },
+    {
+      "learner": "p59",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 97.57
+    },
+    {
+      "learner": "p59",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 104.72
+    },
+    {
+      "learner": "p59",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 103.6
+    },
+    {
+      "learner": "p60",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 25.2
+    },
+    {
+      "learner": "p60",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 18.97
+    },
+    {
+      "learner": "p60",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 7.37
+    },
+    {
+      "learner": "p60",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 28.06
+    },
+    {
+      "learner": "p60",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 33.23
+    },
+    {
+      "learner": "p60",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 21.54
+    },
+    {
+      "learner": "p61",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 109.09
+    },
+    {
+      "learner": "p61",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 115.41
+    },
+    {
+      "learner": "p61",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 100.48
+    },
+    {
+      "learner": "p61",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 95.13
+    },
+    {
+      "learner": "p61",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 95.87
+    },
+    {
+      "learner": "p61",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 78.0
+    },
+    {
+      "learner": "p62",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 31.13
+    },
+    {
+      "learner": "p62",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 21.46
+    },
+    {
+      "learner": "p62",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 17.34
+    },
+    {
+      "learner": "p62",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 33.88
+    },
+    {
+      "learner": "p62",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 32.03
+    },
+    {
+      "learner": "p62",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 7.83
+    },
+    {
+      "learner": "p63",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 37.62
+    },
+    {
+      "learner": "p63",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 29.56
+    },
+    {
+      "learner": "p63",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 21.74
+    },
+    {
+      "learner": "p63",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 40.8
+    },
+    {
+      "learner": "p63",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 45.86
+    },
+    {
+      "learner": "p63",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 11.34
+    },
+    {
+      "learner": "p64",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 37.63
+    },
+    {
+      "learner": "p64",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 43.77
+    },
+    {
+      "learner": "p64",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 29.3
+    },
+    {
+      "learner": "p64",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 50.78
+    },
+    {
+      "learner": "p64",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 43.41
+    },
+    {
+      "learner": "p64",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 14.68
+    },
+    {
+      "learner": "p65",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 14.81
+    },
+    {
+      "learner": "p65",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 12.22
+    },
+    {
+      "learner": "p65",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 4.39
+    },
+    {
+      "learner": "p65",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 16.13
+    },
+    {
+      "learner": "p65",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 33.69
+    },
+    {
+      "learner": "p65",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 1.76
+    },
+    {
+      "learner": "p66",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 124.01
+    },
+    {
+      "learner": "p66",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 118.44
+    },
+    {
+      "learner": "p66",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 106.55
+    },
+    {
+      "learner": "p66",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 116.64
+    },
+    {
+      "learner": "p66",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 127.42
+    },
+    {
+      "learner": "p66",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 109.86
+    },
+    {
+      "learner": "p67",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 44.52
+    },
+    {
+      "learner": "p67",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 44.29
+    },
+    {
+      "learner": "p67",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 42.65
+    },
+    {
+      "learner": "p67",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 47.12
+    },
+    {
+      "learner": "p67",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 68.85
+    },
+    {
+      "learner": "p67",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 40.68
+    },
+    {
+      "learner": "p68",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 102.75
+    },
+    {
+      "learner": "p68",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 118.09
+    },
+    {
+      "learner": "p68",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 95.97
+    },
+    {
+      "learner": "p68",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 108.83
+    },
+    {
+      "learner": "p68",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 106.29
+    },
+    {
+      "learner": "p68",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 105.67
+    },
+    {
+      "learner": "p69",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 109.97
+    },
+    {
+      "learner": "p69",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 115.82
+    },
+    {
+      "learner": "p69",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 110.06
+    },
+    {
+      "learner": "p69",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 127.24
+    },
+    {
+      "learner": "p69",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 133.8
+    },
+    {
+      "learner": "p69",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 98.35
+    },
+    {
+      "learner": "p70",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 29.42
+    },
+    {
+      "learner": "p70",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 22.83
+    },
+    {
+      "learner": "p70",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 14.28
+    },
+    {
+      "learner": "p70",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 35.84
+    },
+    {
+      "learner": "p70",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 32.14
+    },
+    {
+      "learner": "p70",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 25.8
+    },
+    {
+      "learner": "p71",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 92.2
+    },
+    {
+      "learner": "p71",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 71.37
+    },
+    {
+      "learner": "p71",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 83.21
+    },
+    {
+      "learner": "p71",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 85.56
+    },
+    {
+      "learner": "p71",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 84.28
+    },
+    {
+      "learner": "p71",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 84.97
+    },
+    {
+      "learner": "p72",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 20.97
+    },
+    {
+      "learner": "p72",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 14.14
+    },
+    {
+      "learner": "p72",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 9.88
+    },
+    {
+      "learner": "p72",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 23.62
+    },
+    {
+      "learner": "p72",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 0.74
+    },
+    {
+      "learner": "p72",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 14.57
+    },
+    {
+      "learner": "p73",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 76.19
+    },
+    {
+      "learner": "p73",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 73.28
+    },
+    {
+      "learner": "p73",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 62.66
+    },
+    {
+      "learner": "p73",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 84.63
+    },
+    {
+      "learner": "p73",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 75.53
+    },
+    {
+      "learner": "p73",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 52.73
+    },
+    {
+      "learner": "p74",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 23.34
+    },
+    {
+      "learner": "p74",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 44.85
+    },
+    {
+      "learner": "p74",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 23.78
+    },
+    {
+      "learner": "p74",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 26.04
+    },
+    {
+      "learner": "p74",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 28.45
+    },
+    {
+      "learner": "p74",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 8.84
+    },
+    {
+      "learner": "p75",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 76.53
+    },
+    {
+      "learner": "p75",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 93.41
+    },
+    {
+      "learner": "p75",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 72.4
+    },
+    {
+      "learner": "p75",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": null
+    },
+    {
+      "learner": "p75",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": null
+    },
+    {
+      "learner": "p75",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": null
+    },
+    {
+      "learner": "p76",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": null
+    },
+    {
+      "learner": "p76",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": null
+    },
+    {
+      "learner": "p76",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": null
+    },
+    {
+      "learner": "p76",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 28.6
+    },
+    {
+      "learner": "p76",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 28.11
+    },
+    {
+      "learner": "p76",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 24.1
+    },
+    {
+      "learner": "p77",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 59.79
+    },
+    {
+      "learner": "p77",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 69.08
+    },
+    {
+      "learner": "p77",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 51.59
+    },
+    {
+      "learner": "p77",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 60.9
+    },
+    {
+      "learner": "p77",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 75.81
+    },
+    {
+      "learner": "p77",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 62.6
+    },
+    {
+      "learner": "p78",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 3.03
+    },
+    {
+      "learner": "p78",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 8.38
+    },
+    {
+      "learner": "p78",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 0
+    },
+    {
+      "learner": "p78",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 17.37
+    },
+    {
+      "learner": "p78",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 4.57
+    },
+    {
+      "learner": "p78",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 0
+    },
+    {
+      "learner": "p79",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 58.47
+    },
+    {
+      "learner": "p79",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 55.27
+    },
+    {
+      "learner": "p79",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 47.83
+    },
+    {
+      "learner": "p79",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 51.63
+    },
+    {
+      "learner": "p79",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 76.16
+    },
+    {
+      "learner": "p79",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 51.65
+    },
+    {
+      "learner": "p80",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 65.05
+    },
+    {
+      "learner": "p80",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 77.98
+    },
+    {
+      "learner": "p80",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 54.08
+    },
+    {
+      "learner": "p80",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 72.8
+    },
+    {
+      "learner": "p80",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 67.07
+    },
+    {
+      "learner": "p80",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 73.38
+    },
+    {
+      "learner": "p81",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 33.52
+    },
+    {
+      "learner": "p81",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 42.07
+    },
+    {
+      "learner": "p81",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 26.68
+    },
+    {
+      "learner": "p81",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 31.7
+    },
+    {
+      "learner": "p81",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 41.45
+    },
+    {
+      "learner": "p81",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 20.04
+    },
+    {
+      "learner": "p82",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 22.56
+    },
+    {
+      "learner": "p82",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 36.94
+    },
+    {
+      "learner": "p82",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 27.77
+    },
+    {
+      "learner": "p82",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 26.7
+    },
+    {
+      "learner": "p82",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 46.29
+    },
+    {
+      "learner": "p82",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 20.2
+    },
+    {
+      "learner": "p83",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 29.34
+    },
+    {
+      "learner": "p83",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 43.55
+    },
+    {
+      "learner": "p83",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 5.97
+    },
+    {
+      "learner": "p83",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 15.16
+    },
+    {
+      "learner": "p83",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 30.42
+    },
+    {
+      "learner": "p83",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 17.25
+    },
+    {
+      "learner": "p84",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 21.56
+    },
+    {
+      "learner": "p84",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 16.99
+    },
+    {
+      "learner": "p84",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 5.69
+    },
+    {
+      "learner": "p84",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 25.07
+    },
+    {
+      "learner": "p84",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 13.03
+    },
+    {
+      "learner": "p84",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 13.9
+    },
+    {
+      "learner": "p85",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 19.06
+    },
+    {
+      "learner": "p85",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 11.77
+    },
+    {
+      "learner": "p85",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 3.4
+    },
+    {
+      "learner": "p85",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 28.04
+    },
+    {
+      "learner": "p85",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 18.8
+    },
+    {
+      "learner": "p85",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 5.8
+    },
+    {
+      "learner": "p86",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 124.44
+    },
+    {
+      "learner": "p86",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 114.8
+    },
+    {
+      "learner": "p86",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 103.17
+    },
+    {
+      "learner": "p86",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 120.05
+    },
+    {
+      "learner": "p86",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 105.36
+    },
+    {
+      "learner": "p86",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 117.35
+    },
+    {
+      "learner": "p87",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 39.69
+    },
+    {
+      "learner": "p87",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 30.67
+    },
+    {
+      "learner": "p87",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 21.61
+    },
+    {
+      "learner": "p87",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 42.05
+    },
+    {
+      "learner": "p87",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 46.32
+    },
+    {
+      "learner": "p87",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 21.44
+    },
+    {
+      "learner": "p88",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 39.6
+    },
+    {
+      "learner": "p88",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 48.52
+    },
+    {
+      "learner": "p88",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 34.66
+    },
+    {
+      "learner": "p88",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 38.7
+    },
+    {
+      "learner": "p88",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 28.97
+    },
+    {
+      "learner": "p88",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 30.21
+    },
+    {
+      "learner": "p89",
+      "occasion": 0,
+      "channel": "self",
+      "minutes": 106.57
+    },
+    {
+      "learner": "p89",
+      "occasion": 0,
+      "channel": "family",
+      "minutes": 105.79
+    },
+    {
+      "learner": "p89",
+      "occasion": 0,
+      "channel": "device",
+      "minutes": 100.31
+    },
+    {
+      "learner": "p89",
+      "occasion": 1,
+      "channel": "self",
+      "minutes": 110.13
+    },
+    {
+      "learner": "p89",
+      "occasion": 1,
+      "channel": "family",
+      "minutes": 109.57
+    },
+    {
+      "learner": "p89",
+      "occasion": 1,
+      "channel": "device",
+      "minutes": 99.71
+    }
+  ],
+  "audits": [
+    {
+      "learner": "p1",
+      "selection_probability": 0.65,
+      "device_minutes": 65.15,
+      "manual_interval": [
+        62.3,
+        86.3
+      ]
+    },
+    {
+      "learner": "p2",
+      "selection_probability": 0.65,
+      "device_minutes": 48.43,
+      "manual_interval": [
+        39.61,
+        63.61
+      ]
+    },
+    {
+      "learner": "p3",
+      "selection_probability": 0.2,
+      "device_minutes": 42.39,
+      "manual_interval": [
+        31.8,
+        55.8
+      ]
+    },
+    {
+      "learner": "p12",
+      "selection_probability": 0.2,
+      "device_minutes": 0,
+      "manual_interval": [
+        0,
+        14.05
+      ]
+    },
+    {
+      "learner": "p13",
+      "selection_probability": 0.2,
+      "device_minutes": 35.43,
+      "manual_interval": [
+        25.4,
+        49.4
+      ]
+    },
+    {
+      "learner": "p15",
+      "selection_probability": 0.65,
+      "device_minutes": 61.65,
+      "manual_interval": [
+        47.64,
+        71.64
+      ]
+    },
+    {
+      "learner": "p16",
+      "selection_probability": 0.65,
+      "device_minutes": 98.75,
+      "manual_interval": [
+        92.77,
+        116.77
+      ]
+    },
+    {
+      "learner": "p19",
+      "selection_probability": 0.65,
+      "device_minutes": 50.8,
+      "manual_interval": [
+        40.53,
+        64.53
+      ]
+    },
+    {
+      "learner": "p22",
+      "selection_probability": 0.65,
+      "device_minutes": 120.89,
+      "manual_interval": [
+        120.69,
+        144.69
+      ]
+    },
+    {
+      "learner": "p24",
+      "selection_probability": 0.2,
+      "device_minutes": 28.18,
+      "manual_interval": [
+        22.35,
+        46.35
+      ]
+    },
+    {
+      "learner": "p28",
+      "selection_probability": 0.65,
+      "device_minutes": 51.14,
+      "manual_interval": [
+        43.44,
+        67.44
+      ]
+    },
+    {
+      "learner": "p30",
+      "selection_probability": 0.2,
+      "device_minutes": 28.86,
+      "manual_interval": [
+        17.65,
+        41.65
+      ]
+    },
+    {
+      "learner": "p33",
+      "selection_probability": 0.65,
+      "device_minutes": 102.06,
+      "manual_interval": [
+        85.24,
+        109.24
+      ]
+    },
+    {
+      "learner": "p34",
+      "selection_probability": 0.2,
+      "device_minutes": 23.77,
+      "manual_interval": [
+        11.06,
+        35.06
+      ]
+    },
+    {
+      "learner": "p38",
+      "selection_probability": 0.65,
+      "device_minutes": 48.72,
+      "manual_interval": [
+        38.43,
+        62.43
+      ]
+    },
+    {
+      "learner": "p39",
+      "selection_probability": 0.65,
+      "device_minutes": 101.37,
+      "manual_interval": [
+        89.57,
+        113.57
+      ]
+    },
+    {
+      "learner": "p44",
+      "selection_probability": 0.65,
+      "device_minutes": 110.19,
+      "manual_interval": [
+        110.69,
+        134.69
+      ]
+    },
+    {
+      "learner": "p45",
+      "selection_probability": 0.2,
+      "device_minutes": 8.73,
+      "manual_interval": [
+        0,
+        17.57
+      ]
+    },
+    {
+      "learner": "p48",
+      "selection_probability": 0.65,
+      "device_minutes": 89.42,
+      "manual_interval": [
+        92.26,
+        116.26
+      ]
+    },
+    {
+      "learner": "p49",
+      "selection_probability": 0.65,
+      "device_minutes": 45.66,
+      "manual_interval": [
+        38.54,
+        62.54
+      ]
+    },
+    {
+      "learner": "p52",
+      "selection_probability": 0.2,
+      "device_minutes": 21.43,
+      "manual_interval": [
+        5.34,
+        29.34
+      ]
+    },
+    {
+      "learner": "p55",
+      "selection_probability": 0.2,
+      "device_minutes": 21.18,
+      "manual_interval": [
+        21.19,
+        45.19
+      ]
+    },
+    {
+      "learner": "p61",
+      "selection_probability": 0.65,
+      "device_minutes": 97.02,
+      "manual_interval": [
+        88.27,
+        112.27
+      ]
+    },
+    {
+      "learner": "p65",
+      "selection_probability": 0.2,
+      "device_minutes": 0,
+      "manual_interval": [
+        0,
+        20.39
+      ]
+    },
+    {
+      "learner": "p68",
+      "selection_probability": 0.65,
+      "device_minutes": 99.99,
+      "manual_interval": [
+        90.29,
+        114.29
+      ]
+    },
+    {
+      "learner": "p69",
+      "selection_probability": 0.65,
+      "device_minutes": 103.5,
+      "manual_interval": [
+        96.01,
+        120.01
+      ]
+    },
+    {
+      "learner": "p71",
+      "selection_probability": 0.65,
+      "device_minutes": 76.77,
+      "manual_interval": [
+        69.69,
+        93.69
+      ]
+    },
+    {
+      "learner": "p73",
+      "selection_probability": 0.65,
+      "device_minutes": 60.07,
+      "manual_interval": [
+        53.69,
+        77.69
+      ]
+    },
+    {
+      "learner": "p75",
+      "selection_probability": 0.65,
+      "device_minutes": 77.0,
+      "manual_interval": [
+        72.09,
+        96.09
+      ]
+    },
+    {
+      "learner": "p77",
+      "selection_probability": 0.65,
+      "device_minutes": 54.66,
+      "manual_interval": [
+        48.77,
+        72.77
+      ]
+    },
+    {
+      "learner": "p79",
+      "selection_probability": 0.65,
+      "device_minutes": 57.04,
+      "manual_interval": [
+        42.44,
+        66.44
+      ]
+    },
+    {
+      "learner": "p86",
+      "selection_probability": 0.65,
+      "device_minutes": 109.71,
+      "manual_interval": [
+        100.9,
+        124.9
+      ]
+    }
+  ],
+  "channels": [
+    "self",
+    "family",
+    "device"
+  ]
+}

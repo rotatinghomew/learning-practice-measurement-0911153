@@ -13,3 +13,22 @@ learners 是分析对象，observations 每次对应 learner、occasion、channe
 ## 已有业务投影视图
 
 `app/measurements.py` 的 `measurement_profile` 为当前核对分析生成 `source_profile`，保留此项目的分析单位、重复观测和资料组织。这些已观察资料的投影不是新分析结果；可复用其数据关系，但不能把描述统计当成推断。修改现有资料处理时要保留 `tests/test_context.py` 的业务不变量。
+
+## `dose_response` 的估计对象与选项
+
+估计对象是“以练习前 `baseline_score` 线性调整后，后续 `score` 每增加 60 分钟常规练习的关联变化”。每个人每渠道的多次填报先按场合折叠为渠道均值，再对渠道取均值形成观察投入。分析单位是学习者，核验抽样单位与家庭聚类在不确定度中保留。
+
+`options`（全部可省略；默认值即最弱假设）：
+
+| 字段 | 默认 | 含义 |
+| --- | --- | --- |
+| `seed` | `20261115` | 家户自助抽样的随机种子 |
+| `bootstrap_replicates` | `1000` | 自助重复次数，`0` 表示只算点估计 |
+| `common_bias_shares` | `[0, 0.25, 0.5, 0.75]` | 共同偏差占“多渠道一致方差”的假设比例情景 |
+| `reference` | `"none"` | 不使用任何参考渠道；可显式选 `audit_*` 作为工具变量 |
+| `support_bin_width` | `20.0` | 支持区间分箱宽度（分钟） |
+| `support_min_bin_n` | `10` | 一个分箱被视为“有资料支持”的最少人数 |
+
+默认 `reference="none"`，因此不产生“校正后的确定曲线”；`identified_range` 是识别范围而非置信区间。数值、种子与自助有效次数都在结果中回显，可复现。
+
+结果中 `association.observed` 是未校正关联；`identified_range` 是由渠道一致方差给出的单侧界（另一侧无界）；`scenarios` 把“共同偏差占一致方差的比例”作为显式假设；`within_household` 是去除家户共同因素后的另一种关联；`audit_anchors` 把人工区间与设备计时当作工具变量，并公开其“误差与真实分钟、成绩误差及共同偏差无关”的假设及对应隐含可靠性。若核验样本不是按声明概率抽取，锚点估计继承该偏差，`audit_selection` 会同时给出未加权、逆概率加权与总体均值以便核对。

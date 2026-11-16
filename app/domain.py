@@ -1,4 +1,5 @@
 from app.measurements import measurement_profile
+from app.dose_response import ANALYSIS_NAME as DOSE_RESPONSE_NAME, dose_response
 from collections import defaultdict
 from app.protocol import finite, table_mean, unique
 
@@ -35,4 +36,4 @@ def repeatability(packet, options):
             "interpretation": "Within-channel repeatability; agreement does not establish measurement accuracy."}
 
 
-ANALYSES = {"repeatability": repeatability}
+ANALYSES = {"repeatability": repeatability, DOSE_RESPONSE_NAME: dose_response}
